@@ -39,7 +39,7 @@ export const button1 = () =>  <form method="get" action={url}>
 export const reactPropsButton = () => (
 
   <form method="get" action={ text("Url", null) ? (text("Url")) : ("/")}> 
-    <button type="submit" formtarget="_blank">{ text("Content", null) ? (text("content")) : ("Default Content Props") }</button>
+    <button type="submit" formtarget="_blank">{ text("Content", null) ? (text("Content")) : ("Default Content Props") }</button>
   </form>
 );
 
