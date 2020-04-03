@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+###### Ajouts ######
+
+# Result file of Jest
+.jest-test-results.json
+

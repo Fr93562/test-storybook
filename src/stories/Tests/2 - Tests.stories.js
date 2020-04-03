@@ -5,7 +5,7 @@ import { withKnobs, text, boolean, number } from "@storybook/addon-knobs";
 
 
 export default {
-  title: 'Tests Nec',
+  title: 'Test/Tests Nec',
   component: Button,
   decorators: [withKnobs],
 };
